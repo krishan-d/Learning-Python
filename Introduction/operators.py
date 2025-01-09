@@ -50,6 +50,8 @@ a, b = 10, 4
 # /=	Divide AND:	a/=b     a=a/b
 # %=	Modulus AND:a%=b     a=a%b
 # //=	Divide(floor) AND: a//=b     a=a//b
+# **=   Power AND: a**=b  a=a**b
+
 # Example 1:
 x = 10
 x = x + 10  # Modifying value creates new object
